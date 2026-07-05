@@ -1,0 +1,13 @@
+✅ Side Drawer Menu
+✅ Notification Dropdown
+✅ Notification Badge
+✅ Animated SOS Ring
+✅ Bottom Navigation
+✅ Contact Add Button
+✅ Emergency Contact Cards
+✅ Edit Contact Button
+✅ Floating Signals
+✅ User Profile Section
+✅ Gradient Background
+✅ Contact Form Modal
+✅ Edit Contact Modal
